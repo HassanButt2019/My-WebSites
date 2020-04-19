@@ -1,0 +1,137 @@
+#container
+{
+    width: auto;
+    margin: 0 auto;
+    border: 1px solid green;
+}
+#manu
+{
+        background: linear-gradient(#f8f594,#d5d533);
+        height: 70px;
+        width: auto;
+        padding: 5px 0;
+        align-content: center;
+        border: 1px solid green;
+}
+nav ul li
+{
+    float: left;
+    list-style-type:   none;
+    padding: 0px 50px; 
+    margin-left: 20px;
+    height: 0 30px;
+    align-content: center;
+    
+    
+}
+#introduction
+{
+    background-color: azure;
+    padding: 30px;
+    margin: 17px 0
+}
+a
+{
+    text-decoration: none;
+}
+.side ul li a
+{
+    text-decoration: none;
+    font-size: 20px;
+}
+.sidebar h3
+{
+    color: purple;
+    font-size: 25px;
+}
+.sidebar
+{
+    height: 500px;
+    width: 450px;
+     border: 1px solid green;
+    border-radius: 20px;
+    padding: 10px 30px;
+    margin:50px;
+    font-size: 17px
+}
+.sidebar ul li a:hover, .sidebar ul li a.active
+{
+    text-decoration: none;
+    color: blueviolet; 
+    font-size: 23px;
+    font-weight: bold;
+}
+li
+{
+    list-style-type: none;
+        
+}
+#left
+{
+    float: left;
+     margin-left: 30px;
+}
+.sidebar ul li
+{
+    padding-bottom: 9px
+}
+#right
+{
+    float: right;
+    margin-right: 30px;
+}
+#introduction h3
+{
+    font-size: 50px;
+    color: green;
+}
+#introduction p
+{
+     font-size: 20px;
+    color: green; 
+    text-align: center
+}
+#manu ul a
+{
+    text-decoration: none;
+    font-size: 18px;
+    color: red;
+    padding: 10px
+}
+#head
+{
+    height: 160px;
+}
+#brand
+{
+    float: left;
+}
+#container #head a
+{
+    text-decoration: none;
+}
+#search
+{
+    float: right;
+    height: 50px;
+    width: 400px;
+    background: linear-gradient(#E4F2B9 , #B7E953);
+    margin-top: 70px;
+}
+
+.text
+{
+    float: left;
+    margin: 10px;
+    width: 200px;
+    font-size: 15px;
+    color: crimson
+}
+.submit
+{
+    float: right;
+     margin: 10px;
+    font-weight: bold;
+    color: white;
+    background: black;
+}
